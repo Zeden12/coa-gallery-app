@@ -57,3 +57,27 @@ To use and test the interactive photo gallery:
 
 ### Mobile View
 ![Mobile View](./assets/mobile%20view.jpg)
+
+# Running Challenges
+
+This repository contains also two codding challenges: 
+
+1. Finding a contiguous subarray that sums up to the targeted sum.
+2. Transforming a string based on its length.
+
+## Getting Started
+
+To run these challenges locally, follow the steps below.
+
+### Step 1:
+
+1. Ensure you have Node.js installed.
+2. terminal like bash etc.
+
+### Step 2:
+
+1. as this Repo cloned into your local machine.
+2. `cd coa-photo-gallery`   in your terminal
+3. `cd Challenges`     in your terminal to dive into the challenge folder.
+4. type `node arrayMap.js` in your terminal to run the first challenges and get the results.
+5. type `node stringTransform.js` in your terminal to run the second challenges and get the results.

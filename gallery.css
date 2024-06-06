@@ -80,7 +80,7 @@ body {
 }
 
 .photo-container:hover img {
-    filter: blur(10px) brightness(0.5);
+    filter: blur(15px) brightness(0.3);
 }
 
 .photo-container:hover .caption {
